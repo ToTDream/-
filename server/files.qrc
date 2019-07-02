@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>files/password.txt</file>
+        <file>files/readme.txt</file>
+        <file>files/student.txt</file>
+        <file>files/teacher.txt</file>
+    </qresource>
+</RCC>
